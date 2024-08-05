@@ -1,0 +1,14 @@
+INSERT INTO Categoria (ID_Categoria, Nome) VALUES (4, 'História');
+INSERT INTO Categoria (ID_Categoria, Nome) VALUES (5, 'Fenômeno');
+INSERT INTO Categoria (ID_Categoria, Nome) VALUES (6, 'Decisivo');
+INSERT INTO Categoria (ID_Categoria, Nome) VALUES (7, 'Salvador');
+INSERT INTO Categoria (ID_Categoria, Nome) VALUES (8, 'Driblador');
+INSERT INTO Categoria (ID_Categoria, Nome) VALUES (9, 'Robozão');
+INSERT INTO Categoria (ID_Categoria, Nome) VALUES (10, 'ET');
+INSERT INTO Categoria (ID_Categoria, Nome) VALUES (11, 'Promissor');
+INSERT INTO Categoria (ID_Categoria, Nome) VALUES (12, 'Passador');
+INSERT INTO Categoria (ID_Categoria, Nome) VALUES (13, 'Sem Medo');
+INSERT INTO Categoria (ID_Categoria, Nome) VALUES (14, 'Craque');
+INSERT INTO Categoria (ID_Categoria, Nome) VALUES (15, 'Bruxo');
+INSERT INTO Categoria (ID_Categoria, Nome) VALUES (16, 'Velocidade');
+INSERT INTO Categoria (ID_Categoria, Nome) VALUES (17, 'Esquerda Perigosa');
