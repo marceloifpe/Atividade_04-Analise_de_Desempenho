@@ -1,0 +1,14 @@
+INSERT INTO Usuario (ID_Usuario, Nome, Email) VALUES (4, 'Rodrigo', 'rodrigo@gmail.com');
+INSERT INTO Usuario (ID_Usuario, Nome, Email) VALUES (5, 'Marlon', 'marlon@gmail.com');
+INSERT INTO Usuario (ID_Usuario, Nome, Email) VALUES (6, 'Isadora', 'isadora@gmail.com');
+INSERT INTO Usuario (ID_Usuario, Nome, Email) VALUES (7, 'Thaissa', 'thaissa@gmail.com');
+INSERT INTO Usuario (ID_Usuario, Nome, Email) VALUES (8, 'Camilla', 'camilla@gmail.com');
+INSERT INTO Usuario (ID_Usuario, Nome, Email) VALUES (9, 'Karine', 'karine@gmail.com');
+INSERT INTO Usuario (ID_Usuario, Nome, Email) VALUES (10, 'Maycon', 'maycon@gmail.com');
+INSERT INTO Usuario (ID_Usuario, Nome, Email) VALUES (11, 'Gilberto', 'gilberto@gmail.com');
+INSERT INTO Usuario (ID_Usuario, Nome, Email) VALUES (12, 'Chico', 'chico@gmail.com');
+INSERT INTO Usuario (ID_Usuario, Nome, Email) VALUES (13, 'Fabio', 'fabio@gmail.com');
+INSERT INTO Usuario (ID_Usuario, Nome, Email) VALUES (14, 'Waldemar', 'waldermar@gmail.com');
+INSERT INTO Usuario (ID_Usuario, Nome, Email) VALUES (15, 'Lucas', 'lucas@gmail.com');
+INSERT INTO Usuario (ID_Usuario, Nome, Email) VALUES (16, 'Denine', 'denine@gmail.com');
+INSERT INTO Usuario (ID_Usuario, Nome, Email) VALUES (17, 'Marisa', 'marisa@gmail.com');

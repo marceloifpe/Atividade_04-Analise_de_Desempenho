@@ -1,0 +1,17 @@
+INSERT INTO Livro_Categoria (ID_Livro, ID_Categoria) VALUES (4, 4);
+INSERT INTO Livro_Categoria (ID_Livro, ID_Categoria) VALUES (4, 11);
+INSERT INTO Livro_Categoria (ID_Livro, ID_Categoria) VALUES (5, 5);
+INSERT INTO Livro_Categoria (ID_Livro, ID_Categoria) VALUES (6, 6);
+INSERT INTO Livro_Categoria (ID_Livro, ID_Categoria) VALUES (7, 7);
+INSERT INTO Livro_Categoria (ID_Livro, ID_Categoria) VALUES (8, 8);
+INSERT INTO Livro_Categoria (ID_Livro, ID_Categoria) VALUES (9, 9);
+INSERT INTO Livro_Categoria (ID_Livro, ID_Categoria) VALUES (9, 4);
+INSERT INTO Livro_Categoria (ID_Livro, ID_Categoria) VALUES (10, 10);
+INSERT INTO Livro_Categoria (ID_Livro, ID_Categoria) VALUES (10, 4);
+INSERT INTO Livro_Categoria (ID_Livro, ID_Categoria) VALUES (11, 11);
+INSERT INTO Livro_Categoria (ID_Livro, ID_Categoria) VALUES (12, 12);
+INSERT INTO Livro_Categoria (ID_Livro, ID_Categoria) VALUES (13, 13);
+INSERT INTO Livro_Categoria (ID_Livro, ID_Categoria) VALUES (14, 14);
+INSERT INTO Livro_Categoria (ID_Livro, ID_Categoria) VALUES (15, 15);
+INSERT INTO Livro_Categoria (ID_Livro, ID_Categoria) VALUES (16, 16);
+INSERT INTO Livro_Categoria (ID_Livro, ID_Categoria) VALUES (17, 17);

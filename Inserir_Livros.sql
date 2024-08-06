@@ -1,0 +1,14 @@
+INSERT INTO Livro (ID_Livro, Titulo, ID_Autor, Ano_Publicacao) VALUES (4, 'O Peruano da Fiel', 4, 2012);
+INSERT INTO Livro (ID_Livro, Titulo, ID_Autor, Ano_Publicacao) VALUES (5, 'Eu Sou Ronaldo', 5, 2002);
+INSERT INTO Livro (ID_Livro, Titulo, ID_Autor, Ano_Publicacao) VALUES (6, 'Sai Que é Sua, Taffarel', 6, 1994);
+INSERT INTO Livro (ID_Livro, Titulo, ID_Autor, Ano_Publicacao) VALUES (7, 'Gigante Cássio 12', 7, 2012);
+INSERT INTO Livro (ID_Livro, Titulo, ID_Autor, Ano_Publicacao) VALUES (8, 'Ousadia e Alegria', 8, 2016);
+INSERT INTO Livro (ID_Livro, Titulo, ID_Autor, Ano_Publicacao) VALUES (9, 'O Homem é uma Besta Enjaulada', 9, 2016);
+INSERT INTO Livro (ID_Livro, Titulo, ID_Autor, Ano_Publicacao) VALUES (10, 'Ninguém Segura La Pulga', 10, 2022);
+INSERT INTO Livro (ID_Livro, Titulo, ID_Autor, Ano_Publicacao) VALUES (11, 'O Desacreditado Medalhista', 11, 2021);
+INSERT INTO Livro (ID_Livro, Titulo, ID_Autor, Ano_Publicacao) VALUES (12, 'Gol da Alemanha', 12, 2014);
+INSERT INTO Livro (ID_Livro, Titulo, ID_Autor, Ano_Publicacao) VALUES (13, 'A América é Nossa', 13, 2019);
+INSERT INTO Livro (ID_Livro, Titulo, ID_Autor, Ano_Publicacao) VALUES (14, 'O Maior de Todos os Tempos', 14, 1970);
+INSERT INTO Livro (ID_Livro, Titulo, ID_Autor, Ano_Publicacao) VALUES (15, 'O Mágico da Bola', 15, 2002);
+INSERT INTO Livro (ID_Livro, Titulo, ID_Autor, Ano_Publicacao) VALUES (16, 'Baila Vini', 16, 2024);
+INSERT INTO Livro (ID_Livro, Titulo, ID_Autor, Ano_Publicacao) VALUES (17, 'Um Inglês de Ouro', 17, 2023);
